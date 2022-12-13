@@ -1,0 +1,301 @@
+# Abilities
+##############################
+ability.Howl=Ula
+ability.Climbing=Tırman
+ability.Leap=Zıpla
+ability.NightVision=Gece Görüşü
+ability.Dash=İleri Atıl
+ability.Ram=Çarp
+ability.Lift=Kaldır
+ability.Shred=Shred
+ability.Bite=Isır
+ability.Paw=Pati
+ability.Armor=Zırh
+ability.ScentTracking=Koku Takibi
+ability.Maim=Sakatla
+
+#Inclination
+ability.Tranquility=Sükunet
+ability.SilverBlood=Gümüş Kan
+ability.Humanity=İnsanlık
+
+ability.Fear=Korku
+ability.Berserk=Çıldır
+ability.Feral=Vahşi Görüş
+
+ability.Ingenuity=Maharetli
+ability.Skillful=Yetenek Dolu
+ability.Mastery=Usta
+
+#Misc
+ability.Werewolf=Kurt Adam
+ability.Wolf=Kurt
+ability.Beast=Canavar
+
+# Abilities Description
+##############################
+ability.Howl.desc=Yüksek sesle ulu ve kurt ruhlarını çağır. Güç ve kullanım süresi seviye atladıkça artar. Bekleme süresi: 1 dakika.
+ability.Climbing.desc=Belirli bloklara tırmanmana olanak sağlar. Tırmanabileceğin blokların sayısı seviye atladıkça artar.
+ability.Leap.desc=İleriye doğru yüksek bir hızla atlamanı sağlar.
+ability.NightVision.desc=Gece görüşüne erişmeni sağlar.
+ability.Ram.desc=Koşarkan çarptıkların geriye savrulur ve bir süreliğine felç olur.
+ability.Lift.desc=Varlıkları tutup kaldırmanı sağlar. Patin(elin) boş olmalı .
+ability.Shred.desc=Silahsız elle yapılan saldırılar düşmanın kanamasını sağlar.
+ability.Bite.desc=Hedefteki oyuncuyu ısırır ve ona likantropini(kurt adamlık) bulaştırır.
+ability.Paw.desc=Kurt adamın patisinde eşya tutmasına olanak sağlar. Eşyanın verimliliği azalır.
+ability.Armor.desc=Kurt adamın zırh giymesini sağlar. Zırhın koruması ve hareket hızı düşer.
+ability.ScentTracking.desc=Varlıkların kokusunu alarak izini sürebilmeni sağlar. Koku alma alanın seviye arttıkça artar. Ayrıca yaratıkların koku renkleri menüden değiştirilebilir.
+ability.Maim.desc=Kurbanı yaralayan özel bir saldırı. Kurbana yavaşlık ve madenci yorgunluğu verir.
+
+#Inclination
+ability.Tranquility.desc=Hayvanlar ve köylüler senden kaçmayı bırakır.
+ability.SilverBlood.desc=Kurtboğan çiçeği ve gümüşe olan zayıflığın azalır.
+ability.Humanity.desc=Kurt adamken giydiğin zırhın ve kullandığın eşyanın negatif özelliklerini azaltır.
+
+ability.Fear.desc=Saldırgan yaratıklar senden korkar ve saldırmaya çekinir. Yinede onları kışkırtırsan saldırırlar.
+ability.Berserk.desc=Art arta öldürmek kısa bir süreliğine kas gücünü arttırır(geçiçi). Öldürdükçe gücün artar
+ability.Feral.desc=İnsan olmaktan çıktın. Canavarla bir oldun. Yeteneklerin ve zayıflıkların arttı, insan halindeyken bile. Zırhlar ve eşyalar kurt adamken tamamen işe yaramaz ve güçleri insan halindeyken de azdır.
+
+ability.Ingenuity.desc=Increases exp gain.
+ability.Skillful.desc=Increases Attribute points.
+ability.Mastery.desc=Increases Attribute and Ability points.
+
+#Misc
+ability.Werewolf.desc=Kurt adama dönüşme yeteneği verir. Hareket hızın, zıplama yüksekliğin, silahsız saldırı gücün arttı ve aldığın hasar azaldı.
+ability.Wolf.desc=Kurta dönüşme yeteneği verir.
+ability.Beast.desc=Daha büyük ve güçlü bir forma dönüşme yeteneği verir.
+
+#Attribute
+##############################
+attribute.Strength=Kas gücü
+attribute.Rend=Parçalama, yırtma
+attribute.Protection=Korunma
+attribute.Movement=Hareket hızı
+attribute.Jump=Zıplama yüksekliği
+attribute.Fall=Yüksekten düşme
+attribute.Knockback=Geriye fırlatma
+attribute.KnockResist=Geriye fırlatmaya direnme
+attribute.Hunger=Açlık
+attribute.Regeneration=Yenilenme
+attribute.Clarity=Berraklık
+attribute.Exhilarating=Canlandırıcı
+attribute.Resistance=Direnç
+attribute.Dexterity=Maharet
+
+attribute.Strength.desc=Silahsız saldırı gücünü 15%% arttırır.
+attribute.Rend.desc=2 zırh barını deler.
+attribute.Protection.desc=Zırhsızken alınan hasarı 8%% azaltır.
+attribute.Movement.desc=Hareket hızını arttırır.
+attribute.Jump.desc=Zıplama yüksekliğini arttırır.
+attribute.Fall.desc=Hasar almadan düşebileceğin yüksekliği arttırır.
+attribute.Knockback.desc=Silahsız saldırının geriye fırlatma gücünü arttırır.
+attribute.KnockResist.desc=Geriye fırlamanı azaltır.
+attribute.Hunger.desc=Dönüştüğünde açığa çıkan açlık azalır.
+attribute.Regeneration.desc=Yavaşca canını yeniler, verilen her puan yenilenme hızını arttırır.
+attribute.Clarity.desc=İnsan haline dönerken ortaya çıkan zararları azaltır.
+attribute.Exhilarating.desc=Dönüşünce geçici yetenekler verir. Doygunluk artar, ve faydalı iksir etkileri verir. Bu yetenek sadece 5 dakikada 1 defa kullanılabilir.
+attribute.Resistance.desc=Verilen her puan sırasıyla zararlı etkilere bağışıklılık sağlar. Bağışıklılık 1: Zayıflık. 2: Zehir. 3: Yavaşlık. 4: Madenci yorgunluğu. 5: Wither.
+attribute.Dexterity.desc=Patinin işe yararlılığını arttırır.
+
+#Skills
+##############################
+skills.reset.ability=Yetenek puanlarını sıfırla
+skills.reset.attribute=Maharet puanlarını sıfırla
+skills.reset.inclination=Yönelimini (iyi-kötü-ortada) sıfırla
+skills.reset.inclination2=İlerlemen seçmeden önceki noktaya dönücek. 
+skills.reset.desc=10 seviyeye mal olur.
+skills.assign=Belirle
+skills.close=Kapat
+skills.confirm=Onayla
+skills.emptyPaw=Boş Pati
+skills.emptyPaw.desc=Seçtiğin slotu boş bırakır.
+
+skills.broke=Hata. Bozduğun için tebrikler.
+
+# Keys
+##############################
+keys.howlingmoon.category=Howling Moon
+keys.howlingmoon.menu=Menü
+keys.howlingmoon.transform=Dönüşüm
+keys.howlingmoon.ability1=1. Yetenek
+keys.howlingmoon.ability2=2. Yetenek
+
+# Commands
+##############################
+commands.werewolf.success=%s artık kurt adam
+commands.werewolf.success.false=%s artık kurt adam değil
+commands.werewolf.usage=/werewolf <true|false>
+
+commands.werelevel.failure=Kurt adam olmayan oyuncunun seviyesi ayarlanamadı.
+commands.werelevel.failure.levels=Kurt adam seviyesi 1'den aşağı ayarlanama.
+commands.werelevel.success=Kurt adam seviyesini %s yap %d için
+commands.werelevel.usage=/werelevel <amount> ya da /werelevels <amount>
+
+commands.wereprogress.failure=Gelişim 0'dan az a ayarlanamaz.
+commands.wereprogress.failure.non=Kurt adam olmayan oyuncu gelişimini ayarlayamaz.
+commands.wereprogress.success=Kurt adam gelşimini (%d, %s) yap %s için
+commands.wereprogress.usage=/wereprogress <0-8> [-1, 0 , 1] ya da /werequests <0-8> [-1, 0, 1]
+
+# Config
+##############################
+werewolf.config.setLevelCap.name=Seviye Sınırını ayarla
+werewolf.config.spawnSilverOre.name=Gümüş madeni oluştur
+werewolf.config.wolfSleep.name=Kurt adamlar uyuyabilir
+werewolf.config.dimID.name=Boyut ID
+werewolf.config.setLevelCap=Kurt adamlar için seviye sınırı ayarla. Şiddetle normal bırakmanızı tavsiye ederim.
+werewolf.config.wolfSleep=Configure if werewolves are allowed to sleep while transformed.
+werewolf.config.spawnSilverOre=Generate silver ore in world.
+
+werewolf.config.dimID=Set the mod's Dimension ID.
+
+# Items
+##############################
+tile.howlingmoon.ore_silver.name=Gümüş Madeni
+tile.howlingmoon.wolfsbane.name=Kurtboğan Otu
+tile.howlingmoon.hunter_banner.name=Avcının bayrağı
+item.howlingmoon.ingot_silver.name=Gümüş külçesi
+item.howlingmoon.silver_sword.name=Gümüş kılıç
+item.howlingmoon.hsilver_sword.name=Sert gümüş kılıç
+item.howlingmoon.moonstone.name=Ay İncisi
+item.howlingmoon.potion_wolfsbane.name=Kurtboğan iksiri
+
+# Enchantments
+##############################
+enchantment.Wolfsbane=Kurtboğan
+
+# Potions
+##############################
+effect.howlingmoon:bleeding=Kanama
+effect.howlingmoon:wolfsbane=Kurtboğan
+effect.howlingmoon:silverpoison=Gümüş Zehirlenmesi 
+
+# Creative Tab
+##############################
+itemGroup.howlingmoon=Howling Moon Yükseliyor
+
+# Entities
+##############################
+entity.Werewolf.name=Kurt Adam
+entity.Hunter.name=Avcı
+entity.NPCWerewolf.name=Köylü Kurt Adam
+entity.NPCHunter.name=Köy Avcısı
+
+# Messages
+##############################
+werewolf.message.infected=Likantropi hastalı kaptın!
+werewolf.message.fullmoon=Dolunay Yükseliyor! İçindeki canavar kontrolü ele geçiriyor!
+werewolf.message.night=İçindeki canavar kontrolü ele geçiriyor!
+werewolf.message.exitmoon=İçindeki canavar hala aktif!
+werewolf.message.calmingcure=Vücudun sakinledi, likantropi hastalığın artık yok.
+werewolf.message.cure=Kurtboğan içindeki canavarı bastırıyor, artık kurt adam değilsin!
+werewolf.message.cure.infection=Kurtboğan içindeki hastalığı tedavi ediyor!
+werewolf.message.immune=Kurtboğan damarlarında dolaşıyor, artık likantropi hastalığına bağışıklısın!
+werewolf.message.antiimmune=Kurtboğan vücudundan atıldı, artık likantropi kapabilirsin!
+werewolf.message.noeffect=İksirin hiç bir etkisi yok.
+werewolf.message.sleep=İçindeki canavar hala aktif!
+werewolf.message.wake=Rüyanda uzak bir yerde avlandığını gördün.
+werewolf.message.wake2=Uyurken fısıltılar duyduğunu hatırlıyorsun.
+
+werewolf.message.wolfform=İçindeki kurt uyandı! Kurta dönüşme yeteneği kazandın.
+werewolf.message.beastform=İçindeki canavar uyanı! Daha güçlü bir forma dönüşme yeteneği kazandır.
+werewolf.message.unlock=Kurtun başka bir parçası uyandı!
+
+# Guide Messages
+##############################
+guide.message.welcome0=Selam Dostum. Gel konuş benimle. Öğrenecek çok şeyin var.
+guide.message.welcome1=Eğitime devam etmek ve yeni bölgeye erişmek için kurt formunu kullan.
+guide.message.welcome2=Tekrar merhaba dostum. Sana öğreticek şeylerim var.
+guide.message.welcome3=Labirentte yolunu bulmak için gece görüşünü kullan.
+guide.message.welcome4=Eğitimin nerdeyse tamamlandı. Konuş benimle.
+guide.message.welcome5=Canavarını dene ve tünelde ileriye doğru atıl. Duvarlara dikkat et.
+guide.message.welcome6=Bu kadar. Son sınavın için konuş benimle.
+guide.message.welcome7=Ustalaştığını kanıtlamak için bitir.
+guide.message.level1=Artık kurta dönüşme yeteneğine sahipsin. Yeni bölgeye ulaşmak için kullan kardeşlerimiz sana daha çok şey öğreticek.
+guide.message.level2=Artık uluyarak sürü üyelerini çağırabilirsin.
+guide.message.level3=Artık karanlıkta rahatlıkla görebiliyorsun. Sona ulaşmana yardım etmesi için bu yeteneği kullan. Sonrasında bir seçim yapmak zorunda kalacaksın.
+guide.message.level4=Nasıl bir kurt olmak isteğini seçmen gerek. Değiştirmek için üçümüzle konuş. Terk ettiğinde ayarlandığı gibi kalıcak.
+guide.message.level5=Artık canavar formuna dönüşme yeteneği kazandın. Tünelde koşturmana yardımcı olabilir. Ama duvarlara çarpmamaya özen göster çünkü bu formda olduğundan daha büyüksün!
+guide.message.level6=Artık hediyemizi başkalarına aktarma yetisine sahipsin.
+guide.message.level7=Elinden gelen her şeyi yap ve bitir bize usta olduğunu kanıtla. Eğer değerli eşyalar taşıyorsan denemeden önce atlayıp onları güvenli bir yere bırakmanızı öneririm.
+guide.message.level8=Eğitimini tamamladın ve ustalaştığını bize kanıtladın. Şimdi sıra içindeki canavarı kontrol etmekte ve ya serbest bırakmakta, Yeteneğimizi senin taşımandan gurur duyuyoruz.
+guide.message.inclination=Şuan yönelim %s.
+
+# Werewolf Menu
+##############################
+werewolf.menu.werewolf=Kurt Adam
+werewolf.menu.abilities=Yetenekler
+werewolf.menu.texture=Doku
+werewolf.menu.model=Model
+werewolf.menu.texture.gray=Gri
+werewolf.menu.texture.white=Beyaz
+werewolf.menu.texture.black=Siyah
+werewolf.menu.texture.red=Kırmızı
+werewolf.menu.texture.timber=Ahşap rengi
+werewolf.menu.texture.custom=Özel
+werewolf.menu.model.wolf=Kurt
+werewolf.menu.model.beast=Canavar
+werewolf.menu.status=Durum
+werewolf.menu.infection0=Normal
+werewolf.menu.infection1=Enfekte
+werewolf.menu.infectionN=Bağışıklı
+werewolf.menu.off=Kapat
+werewolf.menu.on=Aç
+werewolf.menu.skills=Yetenekler
+
+werewolf.menu.title=Yönelim
+werewolf.menu.title.calm1=Sakin
+werewolf.menu.title.calm2=Koruyucu
+werewolf.menu.title.calm3=Muhafız
+werewolf.menu.title.savage1=Vahşi
+werewolf.menu.title.savage2=Canavar
+werewolf.menu.title.savage3=Yırtıcı
+werewolf.menu.title.neutral=Tarafsız
+
+werewolf.menu.paw=Patiyi boş bırak
+werewolf.menu.pawSlot=Boş bırakmak için bir slot numarası gir, (0 - 8), . Başka bir sayı yeteneği kapatır
+werewolf.menu.slot=Slot
+werewolf.menu.leap.forward=İleri
+werewolf.menu.leap.aim=Hedef
+
+werewolf.menu.ability=Yetenk
+werewolf.menu.toggle.name=Yetenek Aç/Kapat
+werewolf.menu.toggle.none=Hiç
+werewolf.menu.toggle.click=Değiştirmek için tıkla
+werewolf.menu.activate.name=Aktif et
+werewolf.menu.sneakJump=Leap: Eğil + Zıpla
+werewolf.menu.sprintJump=Leap: Koş + Zıpla
+werewolf.menu.sprintClimb=Climb: Koş
+werewolf.menu.sprintClimb.no=Koşarken duvara tırmanma
+werewolf.menu.sprintClimb.climb=Sadece koşarken duvara tırman
+werewolf.menu.sprintClimb.stop=Duvara tırmanırken pozisyonunu koru
+werewolf.menu.sprintClimb.clampClimb=Duvara tırmanırken tutun
+werewolf.menu.sprintClimb.clamp=Duvara tutun
+werewolf.menu.sprintClimb.clamp2=İleri: Yukarı, Geri: Aşağı
+werewolf.menu.leap.Sadece tırmanırken
+werewolf.menu.leap.leap=Sadece yerdeyken
+werewolf.menu.ram.key=Koşma tuşuna basılıyken
+
+werewolf.scent.Color=Koku takip renkleri
+werewolf.scent.settings=Renk ayarları
+werewolf.scent.mobs=Canavarlar
+werewolf.scent.animals=Hayvanlar
+werewolf.scent.creatures=Yaratıklar
+werewolf.scent.others=Diğerleri
+werewolf.scent.edit=Edit
+werewolf.scent.clear=Temiz
+werewolf.scent.ignore=Görmezden gel
+werewolf.scent.cancel=İptal
+werewolf.scent.disabled=Kapatıldı
+werewolf.scent.specific=Özel olarak
+
+# Tame Menu
+##############################
+
+# Guide Book
+##############################
+
+# Lore Book
+##############################
+
+# Dialog
+##############################
